@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+  margin-top: 30px;
+  font-family: verdana;
+}
+
+.navbar-inverse .navbar-brand {
+  font-family: verdana;
+  font-size: 20px;
+  color: white;
+  padding-top: 15px;
+}
+
+#landing {
+          font-family: 'Tangerine';
+          text-align: center;
+          color: #404040
+        }
+
+#jumbo {
+        font-family: 'Lato';
+        font-weight: bold;
+        color: white;
+        text-align: center;
+}
+
+
+h1 {
+    font-family: 'Lato';
+    text-align: center;
+    font-size: 60px;
+}
+h2 {
+    font-family: 'Lato';
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+font-family: 'Lato';
+}
